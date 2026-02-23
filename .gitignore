@@ -1,0 +1,3 @@
+# .gitignore for data files (keep the folder, but ignore contents)
+data/*
+!data/.gitkeep
